@@ -19,6 +19,6 @@ public class Q55_FindGreatestElementPrintItsIndex {
                 index = i;
             }
         }
-        System.out.println(greatest + " element found at index " + index);
+        System.out.println(greatest + "greatest element found at index " + index);
     }
 }

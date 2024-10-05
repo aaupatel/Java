@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q54_AcceptSize_n_fromUserCreate_n_sizeArray_Take_n_InputsPrintSumMean {
+public class Q54_AcceptSize_n_fromUserCreate_n_sizeArray_Take_n_InputsPrintSumandMean {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter size of Array");
